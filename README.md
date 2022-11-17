@@ -1,0 +1,2 @@
+# wordle
+Worldle test scripts
